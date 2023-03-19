@@ -1,0 +1,15 @@
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\bin\Debug\net6.0\calculatorbasic1.exe
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\bin\Debug\net6.0\calculatorbasic1.deps.json
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\bin\Debug\net6.0\calculatorbasic1.runtimeconfig.json
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\bin\Debug\net6.0\calculatorbasic1.dll
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\bin\Debug\net6.0\calculatorbasic1.pdb
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\calculatorbasic1.csproj.AssemblyReference.cache
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\calculatorbasic1.GeneratedMSBuildEditorConfig.editorconfig
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\calculatorbasic1.AssemblyInfoInputs.cache
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\calculatorbasic1.AssemblyInfo.cs
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\calculatorbasic1.csproj.CoreCompileInputs.cache
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\calculatorbasic1.dll
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\refint\calculatorbasic1.dll
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\calculatorbasic1.pdb
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\calculatorbasic1.genruntimeconfig.cache
+D:\02. KULIAH\02. Semester 2\New folder\calculatorbasic1\calculatorbasic1\obj\Debug\net6.0\ref\calculatorbasic1.dll
